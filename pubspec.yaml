@@ -38,6 +38,7 @@ dependencies:
   webfeed: ^0.7.0
   http: ^0.13.4
   sealed_unions: ^3.0.3+1
+  flutter_html: ^2.2.1
 
 dev_dependencies:
   flutter_test:
